@@ -13,6 +13,10 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Chat-Application.rar" style="text-decoration:none;">Chat Application</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/inventory_2014.rar" style="text-decoration:none;">Inventory Management System</a></li>
    
-   
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Login with Google.rar" style="text-decoration:none;">PHP Login using Google Account</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/notifications.rar" style="text-decoration:none;">Notifications</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/recordmanagement.rar" style="text-decoration:none;">Record Management</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/signup-email-verification.rar" style="text-decoration:none;">User Registration with Email Verification</a></li>
+      <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/simple_address_book_php_mysql_pdo.rar" style="text-decoration:none;">Simple Address Book</a></li>
    
  </ul>
