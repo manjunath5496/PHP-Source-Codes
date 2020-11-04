@@ -19,4 +19,15 @@
      <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/signup-email-verification.rar" style="text-decoration:none;">User Registration with Email Verification</a></li>
       <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/simple_address_book_php_mysql_pdo.rar" style="text-decoration:none;">Simple Address Book</a></li>
    
+   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/alarm_clock.rar" style="text-decoration:none;">Alarm Clock</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/myfilemgr.rar" style="text-decoration:none;">File Manager</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Simple Add, Edit, Delete and Search System.rar" style="text-decoration:none;">Simple Add, Edit, Delete and Search System</a></li>
+     <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/tasks.rar" style="text-decoration:none;">Task Management System</a></li>
+ 
+   
+   
+   
+   
+   
+   
  </ul>
