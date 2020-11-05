@@ -88,6 +88,22 @@
  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/PHP Background Image change when Refresh.rar" style="text-decoration:none;">PHP Background Image change when Refresh</a></li>
         
    
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/datepicker.rar" style="text-decoration:none;">Date Picker</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/fb-posting-system.rar" style="text-decoration:none;">FB Posting System</a></li>
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/GIF Generator.rar" style="text-decoration:none;">GIF Generator</a></li>
+     
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/How to Send e-Mail using PHPMailer and Gmail SMTP.rar" style="text-decoration:none;">Send e-Mail using PHP Mailer and Gmail SMTP</a></li>
+        
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/image-editor.rar" style="text-decoration:none;">Image Editor</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/AutoComplete Search with Href Link [PHP MySQL ].rar" style="text-decoration:none;"> Auto Complete Search with Href Link </a></li>
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Creating an Image Gallery from Folder using PHP.rar" style="text-decoration:none;">Creating an Image Gallery from Folder using PHP</a></li>
+     
+   
+   
+   
    
    
  </ul>
