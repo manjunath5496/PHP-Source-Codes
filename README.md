@@ -123,6 +123,24 @@
      
        
   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/angularjs_insert_update_delete.rar" style="text-decoration:none;">Insert Update Delete (Angular JS and PHP)</a></li>
+  
+  
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Redirect.rar" style="text-decoration:none;"> PHP Redirect</a></li>
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/change background color on date using php.rar" style="text-decoration:none;">Change Background Color On Date Using PHP</a></li>
+     
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Download File With Speed Limit Using PHP.rar" style="text-decoration:none;">Download File With Speed Limit Using PHP</a></li>
+     
+       
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/filehandling.rar" style="text-decoration:none;">Open a File and Edit a File in PHP</a></li>  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/color changing effect using php.rar" style="text-decoration:none;">Color changing effect using php</a></li>  
+  
+  
+  
+  
+  
+  
       
    
  </ul>
