@@ -114,7 +114,15 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/datatable-search-by-datepicker.rar" style="text-decoration:none;">PHP Datatable Search By Datepicker</a></li>
      
      
+   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/eSignature Pad Using Jquery AJAX and PHP.rar" style="text-decoration:none;">e Signature Pad Using jQuery, Ajax and PHP</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/extract_urls_from_website_php.rar" style="text-decoration:none;"> Extract URLS From Website Using PHP</a></li>
    
-   
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Upload images to website in PHP.rar" style="text-decoration:none;">Upload images to website in PHP</a></li>
+     
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/product.rar" style="text-decoration:none;">Price Range Slider in PHP</a></li>
+     
+       
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/angularjs_insert_update_delete.rar" style="text-decoration:none;">Insert Update Delete (Angular JS and PHP)</a></li>
+      
    
  </ul>
