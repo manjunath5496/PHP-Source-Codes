@@ -76,7 +76,17 @@
    
  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Recover Password.rar" style="text-decoration:none;">Recover Password</a></li>
      
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/php-email-verification-download.rar" style="text-decoration:none;">PHP Email verification download</a></li>
    
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/smiley-chat-script.rar" style="text-decoration:none;">Smiley Chat Script</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Upload and download files less than 2MB.rar" style="text-decoration:none;">Upload and download files less than 2MB</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/upload image with ajax and php.rar" style="text-decoration:none;">Upload image with Ajax and PHP</a></li>
+   
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/PHP AJAX Image Upload.rar" style="text-decoration:none;">PHP AJAX Image Upload</a></li>
+     
+    
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/PHP Background Image change when Refresh.rar" style="text-decoration:none;">PHP Background Image change when Refresh</a></li>
+        
    
    
    
