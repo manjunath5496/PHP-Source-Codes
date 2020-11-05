@@ -169,6 +169,21 @@
   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Student Monitoring System Using RFID PHP Script.rar" style="text-decoration:none;">Student Monitoring System Using RFID PHP</a></li>  
   <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/upload script.rar" style="text-decoration:none;">PHP Upload Script</a></li>    
   
-      
+ 
+ 
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/Display the Watermark Text Using PHP.rar" style="text-decoration:none;">Display the Watermark Text Using PHP</a></li>  
+  
+ <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/fixed background image.rar" style="text-decoration:none;">Fixed background image (PHP)</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/image-preview-jquery php.rar" style="text-decoration:none;">Image Preview jQuery PHP</a></li>  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/jquery-countdown-timer php.rar" style="text-decoration:none;">jQuery Countdown Timer (PHP)</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/pdf_export.rar" style="text-decoration:none;">PHP PDF Export</a></li>    
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/PDO-CRUD-master.rar" style="text-decoration:none;">PHP PDO CRUD Master</a></li>  
+  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/PHP PDO Ajax CRUD with Data Tables and Bootstrap Modals.rar" style="text-decoration:none;">PHP PDO Ajax CRUD with Data Tables and Bootstrap Modals</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/PHP-Source-Codes/blob/master/text-img.rar" style="text-decoration:none;">Text to Image PHP </a></li>    
+          
    
  </ul>
